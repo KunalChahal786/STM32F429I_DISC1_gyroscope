@@ -1,0 +1,2 @@
+# STM32F429I_DISC1_gyroscope
+F429I DISCOVERY BOARD gyroscope 
